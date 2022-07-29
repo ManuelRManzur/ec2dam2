@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-</selector>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/limegreen"/>
+    <corners android:radius="60dp"/>
+    <gradient android:centerColor="@color/dark_grey"
+        android:startColor="@color/limegreen"
+        android:endColor="@color/pink"/>
+    <padding android:top="4dp"
+        android:bottom="4dp"
+        android:right="4dp"
+        android:left="4dp"/>
+</shape>

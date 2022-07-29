@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ec2</string>
+    <string name="stated_title">Welcome!</string>
+    <string name="started_subtitle">
+        Join our ever-expanding community!\n
+        <u>Log in</u> if you already have an account.\n
+        <u>Sign In</u> to set up an account.
+    </string>
+    <string name="started_image">inkling</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="title_activity_maps">MapsActivity</string>
 </resources>
